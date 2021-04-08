@@ -1,0 +1,27 @@
+[Event "Third Rosenwald Trophy"]
+[Site "Sarajevo"]
+[Date "2012.05.09"]
+[Result "0-1"]
+[White "Hrant Melkumyan"]
+[Black "Evgeny Postny"]
+
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 a6 6.Bb3 b5 7.a4 b4 8.0-0 Bb7 9.Nbd2 c5 10.e4 Nc6 11.e5 Nd5 12.dxc5 Bxc5 13.Ne4 Be7
+14.Bg5! {"Pins" the bishop protecting the square d6 to the queen. Now the knight can proceed to d6, without fear of being traded off right away.}
+14 ...0-0 15.Nd6 Rb8
+{15...Bxg5 16.Nxb7 Qe7 17.Bxd5 exd5 18.Qxd5 just loses a pawn.}
+16.Bxd5 exd5 17.Bxe7 Nxe7 {Talk about the relative value of a piece: here the knight on d6 is of course worth much more than the traditional three points. The black pieces are severely restricted in their activity and White controls much more space, all largely because of this one eight-footed animal.}
+18.Qd3 {White goes for the kingside. An alternative is 18.Nd4 Nc8 19.Nxb7! Rxb7 20.a5. This may surprise you: White just gives up the octopus for the bad bishop. But what really matters is the material that remains on the board. White has only transformed the character of his advantage. The most famous similar example of this phenomenon is probably Fischer’s 22.Nxd7 in Fischer-Petrosian, 7th match game, 1971.}
+18...Qd7 19.Ng5 {19.Nd4 was still possible.}
+19...Ng6 20.f4?! {A better idea to fortify the outpost on d6 is 20.Qg3 and if 20...f6 then 21.e6; thus also avoiding the complications after 20.Ndxf7 Qg4.}
+20...f6 {Now Black is trying to undermine the support of the strong knight.}
+21.Nxb7? {Where White seemed to have a solid positional advantage it now seems that he had no choice but to continue in a sharp and concrete manner: 21.Nxh7 Kxh7 22.Rf3, when Black has to resort to 22...Rh8 (22...f5 23.Rh3+ Kg8 24.Qf3 Rf6 25.Nxb7 Re6).}
+21...fxg5 22.Nc5 Qc6 23.Nxa6
+{White has gone terribly wrong: remember the once proud position of this knight on d6!}
+23...Ra8 {Winning a piece and eventually the game.}
+24.Nxb4 Qc5+ 25.Kh1 Qxb4 26.Qxd5+ Kh8 27.fxg5 Qxa4
+{and Black eventually won.}
+28. g3 Qxa1 29. Rxa1 Rxa1+ 30. Kg2 Re1 31. Qd2 Rxe5 32. h4 Rb8 33. Kh3 Reb5 34. h5 Rxb2 35. Qe1 Nf8 36. h6 R2b7
+37. Qe5 Rd8 38. Qc3 Rf7 39. Qe5 Kg8 40. Kg2 Rdd7 41. hxg7 Rxg7 42. Kh2 Rg6 43. Qa5 Ne6 44. Qa8+ Rd8 45. Qa2 Re8
+46. Qa4 Kf8 47. Qa3+ Re7 48. Qa8+ Kg7 49. Qa1+ Kf7 50. Qf1+ Kg8 51. Qc4 Rxg5 52. Qc8+ Nf8 53. Qc4+ Rf7 54. Qb3 Nd7
+55. Qe6 Kg7 56. Qe3 h6 57. Kh3 Ne5 58. Qe4 Rf3 59. Qb7+ Kg6 60. Qe4+ Kf6
+0-1

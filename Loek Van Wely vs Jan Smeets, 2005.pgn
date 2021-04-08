@@ -1,0 +1,122 @@
+[Event "Botvinnik #3: This time a GM game!"]
+[Site "http://gameknot.com/"]
+[Date ""]
+[Round "-"]
+[White "Loek Van Wely"]
+[Black "Jan Smeets"]
+[Result "1-0"]
+[WhiteElo "2680"]
+[BlackElo "2540"]
+
+1. d4 {Here's a very modern game (NED championship 2005).  This is a completely
+wild line, and Van Wely made a nice find in it, though it's quite a subtle
+move.} d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. Bg5
+{White has a very powerful pin on the f6 knight.} dxc4
+6. e4 {Black grabs a pawn and white grabs the
+lion's share of the center as well as preparing to add pressure to f6 with
+a later e5.} b5 {Black holds his pawn.} 7. e5 {White adds pressure, this
+is the natural move to make, but 7.a4 also deserves attention.} h6 {This is the best
+move to save the double attacked knight on f6.  7... b4 is easily met by
+8.Ne4 adding even more pressure to the pinned knight on f6.} 8. Bh4 {White's
+key point is his pressure on f6, this move retains that.} g5 {Black must
+shut down the pressure on f6.} 9. Nxg5 {White is willing to give up a piece
+to keep the pressure on f6.  While he will lose his f3 knight, his pin
+will win the knight on f6.} hxg5 10. Bxg5 Nbd7 {This move
+stops 11.Bxf6 which would give white a superpowerful bishop on f6.  White
+won't play Bxf6 because the g5 bishop is more important than either of
+the knights, black is covered with dark squared holes (notice how all his
+pawns but one are on light squares).  White should keep his dark squared
+bishop to attack the undefended dark squares, thus he can't exchange it
+for a white if he wants an advantage.  Black can also play 10... Be7 to
+cover f6, but 10... Nbd7 beginning black's queenside development is more
+popular.} 11. exf6 {While this move looks the obvious way to regain material
+(and even be a pawn up) there is an alternative in 11.g3- the knight is
+pinned and white doesn't have to take immediately.  Both moves have merits,
+and they can easily transpose.} Bb7 {Taking back on f6 with the d7 knight
+giving white another nasty pin on f6.  Black would equalize material, but
+he can do that almost anytime, and there's no need to give white a pin.
+ Also for the moment the pawn on f6 gets in the way of white's bishop and
+black should be in no hurry to take such a helpful pawn.} 12. g3 {e2 is
+an inactive square for the bishop, g2 actively targets black's weak queenside.
+ This move prepares to put the bishop on it's ideal square.} c5 {But it
+also opens up black's diagonal, he now threatens Bxh1.} 13. d5 {White blocks
+the diagonal, and he attempts to blast open the position.  Notice that
+black can't take on d5 for example: 13... exd5 14.Qe2  Be7 15.fxe7.  Note
+that if black allows the position to open, the pawn on f6 suddenly becomes
+a huge help for white.} Qb6 {Black has to cover e6 as after an eventual
+dxe6 fxe6 white's pawn on f6 becomes a monster of a protected, passed pawn.
+ It can get in white's way but black has to be INCREDIBLY careful about
+it.  There are two alternatives to 13... Qb6 though neither are are common.
+ 13... Bh6 trades off white's valuable dark squared bishop.  The second
+alternative, 13... Qc7 threatens the dangerous 14... Qe5 .} 14. Bg2 {White
+finishes his pieces development and covers d5.} O-O-O 15. O-O {Opposite
+side castling frequently leads to EXPLOSIVE attacks.  Black has open files
+to work with against white's king, and white tries to exploit the overly
+advanced queenside pawns for black.} b4 {This is the generally recognized
+way for black to play, he tries for activity on BOTH sides.  While white
+tends to be the attacker, black can strike on both sides.} 16. Rb1 {This
+is the modern response to 15... b4 but 16.Na4 is also a strong move for
+white to play.  White tries to attack on the queenside.  This move is willing
+to give up the c3 knight for the open b file.} Qa6 {Black gets his queen
+out of the line of fire.} 17. dxe6 {White continues to go for the attack,
+and in order to do this he opens up the game.  The pawns on e6 and f6 are
+marching forwards and the bishop on b7 is attacked, which is a key piece
+to defend black's kingside.} Bxg2 {Black trades, because if white was allowed
+to take on b7, either black's king or queen would end up on the dangerous
+b file, where white's rook is.} 18. e7 {If white took back on g2 black
+would be allowed to play 18...Qxe6 where white's pawns are no longer rolling,
+his attacking (and defensive) bishop on g2 has been traded and finally
+white's knight on c3 would be attacked.  With this move white forces his
+pawns through the defensive lines.} Bxf1 {Black sees material and he grabs
+material.  If black can still defend this is a good choice, if not it's
+a very dangerous one to go for material.  However, what choice does he
+have?  After 18... bxc3 19.exd8=Q  followed by Kxg2 gives white a nice
+material edge.} 19. Qd5 {19.Qd5!! is a very powerful move that prepares
+20.Bf4 (cutting off the square the black king can move to) followed by
+the winning move Qa8 .} Bh6 {Black tries to get rid of white's powerful
+bishop.  19... Bxe7 is also possible, it was played in the spectacular
+game at Dortmund 1996 Topalov-Kramnik.  Anyone who finds the opening at
+all exciting should definitely check out that game (maybe I'll annotate
+it later).  19... Bd3 (getting the bishop out of the way) loses here after
+20.Bf4! (threatening 21.Qa8  Nb8 22.Qxb8  Kc7 23.exd8=Q  with a very simple
+win for white.  In fact the main point of 19... Bh6 is not to get the dark
+squared bishop, it's to connect rooks so that when d8 falls it will be
+adequately defended.} 20. Bxh6 {If white tries to avoid the trade with
+20.Bh4 his bishop will be completely out of the game (where's it gonna
+go from h4, except maybe back to g5?)} Bd3 {Black can't take back as 20...Rxh6
+leaves blacks king in the danger zone (the rooks aren't connected any longer)
+and white must has a crazy attack coming one, 21.Qa8  Nb8 22.Qxb8 ! Kxb8
+23.exd8=Q  Qc8 (23... Kb7 24.Re1!! where the following Re7  will easily
+win for white) 24.Qd6 Qc7 (24... Kb7 25.Re1! wins with the following Re7
+) 25.Qf8  where after the tactics, white is up a piece.} 21. Qa8+ {The
+obvious, and probably correct way to continue the attack.  21.Ne4 is an
+interesting alternative tried by Shirov, he gets his knight out of the
+way, and prepares to use it in the attack.} Nb8 {The only move, as 21...
+Kc7 provokes 22.Bf4  1-0.} 22. exd8=Q+ Rxd8 23. Re1 {White must move his
+rook out of the danger, and he has threats of the powerful Re7.} bxc3 24.
+Bf4 {White doesn't need to retake, and he continues his scary attack.}
+Qb6 {The other logical move, 24... Qb7 (both moves defend b8, this one
+tries to trade queens) loses to the pretty 25.Re7!! Qxa8 26.Rc7#.} 25.
+bxc3 {Now white retakes as there is no immediate threat.} Bf5 {This is
+a move first played to my knowledge by Shirov (a major proponent of this
+opening for both colors).  Black brings the bishop back to where it can
+enter the defense.} 26. f3 {26.f3!! white cannot advance his attack on
+the queenside (26.Re7?? loses to 26...Qb1! where black gets the attack)
+so he mobilizes his kingside pawn majority.  To prepare the advance of
+his kingside Van Wely first grabs control of the light squares, he prepares
+to play g4 to support his h pawns advance.  This is Van Wely's novelty.
+ Until this game this position was considered a draw, though black's defense
+had to be ingenious.  Check out Azmaiparashvili-Shirov to see an amazing
+save.} Be6 {Black gets ready to play 27... Bd5 forcing the queens off the
+board, the position is still very dangerous.  Another way is 27... Qb7
+but it's bad, as shown by 28.Qxb7  Kxb7 29.Re7  Rd7 30.Bb8 Kb8 31.g4 (starting
+kingside expansion) 31... Be6 32.Rxe6! fxe6 33.g5 and the pawns are better
+than the rook, analysis in this position by Geert van der Stricht in New
+In Chess #77.} 27. g4 {White expands, following his plan.} Bd5 {Black forces
+queens off with an extra piece, but the pawns will be too strong.} 28.
+Qxb8+ Qxb8 29. Bxb8 Kxb8 30. Kf2 {White defends his f3 pawn before beginning
+to march (and activate his rook).} Kc7 31. h4 {The kingside continues to
+push forward.} Rd6 32. Re7+ Rd7 33. h5 {And the pawns give white an easy
+win, notice how 26.f3!! stopped the bishop from coming to e4 and being
+able to stop the h pawn.}  1-0
+

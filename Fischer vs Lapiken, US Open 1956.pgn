@@ -1,0 +1,22 @@
+[Event "US Open"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Fischer"]
+[Black "Lapiken"]
+[Result "1-0"]
+[PlyCount "37"]
+
+1.Nf3 Nf6 2.g3 d5 3.Bg2 Bf5 4.O-O e6 5.d3 c6 6.Nbd2 Na6 7.a3 
+{White decides to play on the queenside rather than the normal 7 Qe1, 8 e4 and kingside play.} 
+Nc5 8.c4 b5 
+{creating a weakness on c6, which White exploits immediately.} 
+9.Nd4 Qd7 10.Nxf5 exf5 11.Nb3 h6 12.Be3 Ne6 13.Nd4 
+{Once again White attacks both c6 and f5. Now Black should play 13...Nxd4 14 Bxd4 Be7 and try to defend b5 and d5.} 
+g6 
+{trading the weak pawn on f5 for an entire weak diagonal a1-h8.} 
+14.Qb3 Rb8 
+{This loses, but he had to drop something. His best chance was 14...Bg7.} 
+15.Nxc6 Qxc6 16.cxd5 Nc5 
+{Black must have counted on this, but White has another double attack coming.} 
+17.Qc3 Qd6 18.Bxc5 Qxc5 19.Qxf6 1-0

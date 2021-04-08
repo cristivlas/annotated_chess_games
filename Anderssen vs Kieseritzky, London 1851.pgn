@@ -1,0 +1,50 @@
+[Event "London"]
+[Site "?"]
+[Date "1851.??.??"]
+[Round "?"]
+[White "Anderssen"]
+[Black "Kieseritzky"]
+[Result "1-0"]
+[PlyCount "45"]
+
+1.e4 
+{Known as the "Immortal Game" this magnificent example of Adolf Anderssen's combinative powers is still considered one of the best games of all time.} 
+e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 b5 
+{The Bryan Counter-Gambit where Black wishes to draw the bishop away from the a2-g8 diagonal.} 
+5.Bxb5 Nf6 6.Nf3 Qh6 
+{The Black queen proves to be out of play here. Better was 6...Qh5.} 
+7.d3 Nh5 
+{7...g5 was a more natural way to defend the f-pawn.} 
+8.Nh4 
+{8.Kg1 would stop Black's threat of Ng3+ winning the exchange. However, White would now drop a piece instead.} 
+Qg5 9.Nf5 c6 
+{9...g6 10.h4 Qf6 11.Nc3 gxf5 12.Qxh5 would give White the lead in development.} 
+10.g4 Nf6 11.Rg1 
+{This piece sacrifice pursues White's agressive policy started with 8.Nh4. The important d5-square will now become available.} 
+cxb5 12.h4 Qg6 
+{The queen is a useless bystander now.} 
+13.h5 Qg5 14.Qf3 
+{Threatens to trap the Black queen with 15.Bxf4.} 
+Ng8 
+{So Black is forced to retreat to the home square.} 
+15.Bxf4 Qf6 16.Nc3 
+{Although White has only two pawns for a piece he has a winning position due to his large lead in development. Black's pieces, with the exception of the queen and the b-pawn, are all on their original squares.} 
+Bc5 17.Nd5 
+{This introduces a double rook sacrifice, where White will give up both of his rooks, even though he is already a piece down.} 
+Qxb2 18.Bd6 
+{Thus begins the "Immortal Sacrifice".} 
+Qxa1+ 
+{18...Bxd6 19.Nxd6+ Kd8 20.Nxf7+ Ke8 when White would have a forced mate in two.} 
+19.Ke2 Bxg1 
+{The best defense, as noted by Steinitz, was 19...Qb2, but fortunately for posterity Kieseritzky didn't figure that out. 19...Qxg1 would again allow White a forced mate.} 
+20.e5 
+{By blocking the queen off the protection of his g-pawn. White is threatening to mate in two with 21.Nxg7+ Kd8 22.Bc7 mate.} 
+Na6 
+{Black covers the c7 square from White's dark squared bishop. However, just when you think Black might defend, Anderssen explodes the position with yet another brilliant line.} 
+21.Nxg7+ Kd8 22.Qf6+ 
+{By sacrificing the queen White has mate next move.} 
+Nxf6 
+{The only move.} 
+23.Be7# 
+{A forced mate by three minor pieces while Black still has most of his pieces on the board. Truly a magnificent game...The Immortal Game.} 
+1-0

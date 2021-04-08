@@ -1,0 +1,38 @@
+[Event "Moscow Olympiad"]
+[Site "?"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Botvinnik"]
+[Black "Gligoric"]
+[Result "1-0"]
+[PlyCount "59"]
+
+1.c4 g6 2.g3 c5 3.Bg2 Bg7 4.Nc3 Nc6 5.Nf3 Nh6 
+{A rather artificial formation.} 
+6.h4 d6 7.d3 Rb8 8.h5 Bd7 9.Bxh6 Bxh6 10.hxg6 hxg6 
+{White's tactical operations on the kingside have resulted in an open h- file and a pin on the bishop at h6.} 
+11.Qc1 
+{This forces Black's reply, since the queen cannot be captured because of mate at h8.} 
+Bg7 12.Rxh8+ Bxh8 13.Qh6 
+{White is attacking effectively with the queen, to be supported by a knight.} 
+Bxc3+ 14.bxc3 
+{Now the Black king has no defense. We soon have an example of a king hunt, where the enemy monarch will be chased all over the board and finally snared far from home.} 
+e6 15.Ng5 Ke7 16.Kd2 
+{The White king will be safe here and now the rook can transfer to the h-file.} 
+Be8 17.Qg7 Kd7 18.f4 
+{18.Nxf7 Qe7} 
+Qe7 19.Rh1 Nd8 20.Ne4 Kc7 21.Rh8 Bc6 22.Nf6 
+{What happens if Black captures the bishop at g2?} 
+Kb6 
+{22...Bxg2 23.Re8} 
+23.Bxc6 Nxc6 24.Rh7 Nd8 
+{Now White exploits the pin on the seventh rank.} 
+25.Qxg6 Ka6 
+{Black appreciates the danger. Once White captures at f7 there will be a fork available at d7.} 
+26.a4 
+{Keeping the Black king hemmed in. Otherwise b7-b5 would be possible.} 
+Ka5 27.Qg5 Kxa4 28.Rh1 
+{The threat is Kc2, depriving the enemy king of another flight square.} 
+Kb3 29.Qh4 Kb2 30.g4 
+{This is the simple way, but Botvinnik could have finished more elegantly. 30.Rb1+ Kxb1 31.Qh1+ Kb2 32.Qc1+ Kb3 33.Qb1+ Ka3 34. Kc2 and mate next move.} 
+1-0
